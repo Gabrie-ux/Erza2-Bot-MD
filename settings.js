@@ -20,8 +20,8 @@ global.owner = [
   ['51941247696', 'gabriel', true],
 
 // <-- Número @lid -->
-  ['200141197844495', 'Dioneibi', true],
-  ['174560573964411', 'Rayo-ofc', true]
+  ['162406168797266', 'Dioneibi', true],
+  ['162406168797266', 'Rayo-ofc', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -37,7 +37,7 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'Goku-Black-Bot-MD'
-global.namebot = '꒰ 🥥 ꒱ؘ Goku-Black-Bot-MD ☄ ࿐ ࿔*:･ﾟ'
+global.namebot = '꒰ 🥥 ꒱ؘ Erza-Bot-MD ☄ ࿐ ࿔*:･ﾟ'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.Jadibts = true
