@@ -135,7 +135,7 @@ id: `${_p}menubusquedas`
       body: { 
         text: `${beforeText}\n\n${bodyText}`
       },
-      footer: { text: "⏤͟͞ू⃪  ̸̷͢𝐑𝐮𝐛y͟ 𝐇𝐨𝐬𝐡𝐢n͟𖹭 𝐁𖹭t͟𑁯ᰍ" },
+      footer: { text: "⏤͟͞ू⃪  ̸̷͢ERZA SCARLET 𝐁𖹭t͟𑁯ᰍ" },
       nativeFlowMessage: {
         buttons: [
           {
