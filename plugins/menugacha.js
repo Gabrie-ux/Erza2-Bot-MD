@@ -42,8 +42,9 @@ let handler = async (m, { conn }) => {
         mediaType: 1,
         renderLargerThumbnail: false,
         showAdAttribution: true,
-        mediaUrl: 'https://whatsapp.com/channel/0029Vb6nOKBD8SDp0aFtCD3R',
-        sourceUrl: 'https://whatsapp.com/channel/0029Vb6nOKBD8SDp0aFtCD3R',
+        mediaUrl: '.
+'https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00',
+        sourceUrl: 'https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00',
         newsletterJid: '120363420590235387@newsletter',
         newsletterName: '⏤͟͞ू⃪፝͜⁞⟡『 ERZA SCARLET 𝘽𝙤𝙩 』࿐⟡'
       }
