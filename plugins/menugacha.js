@@ -31,14 +31,14 @@ let handler = async (m, { conn }) => {
 `.trim();
 
   await conn.sendMessage(m.chat, {
-    image: { url: 'https://files.catbox.moe/tfxlnk.png' },
+    image: { url: 'https://files.catbox.moe/xbsqzg.jpg' },
     caption: texto,
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
         title: '🍭 Comandos gacha para reclamar tus personajes favoritos',
         body: 'Reclama, regala y sube de nivel tus personajes preferidos',
-        thumbnailUrl: 'https://files.catbox.moe/3pw7bx.jpg',
+        thumbnailUrl: 'https://files.catbox.moe/xbsqzg.jpg',
         mediaType: 1,
         renderLargerThumbnail: false,
         showAdAttribution: true,
