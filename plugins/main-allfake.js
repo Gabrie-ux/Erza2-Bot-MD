@@ -44,21 +44,21 @@ const iconUrls = [
 const iconUrl = pickRandom(iconUrls)
 global.icono = await getBuffer(iconUrl)
 
-global.creador = 'Wa.me/595972157130'
-global.asistencia = 'Wa.me/18294868853'
-global.namechannel = '⏤͟͞ू⃪፝͜⁞⟡『 𝐓͢ᴇ𝙖፝ᴍ⃨ 𝘾𝒉꯭𝐚𝑛𝑛𝒆𝑙: g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ 』࿐⟡'
-global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ 』⟡'
-global.namegrupo = '⏤͟͞ू⃪ g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ ⌬⃝𓆩⚔️𓆪 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
-global.namecomu = '⏤͟͞ू⃪ g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ ✦⃝⛩️ 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚'
+global.creador = 'Wa.me/51941247696'
+global.asistencia = 'Wa.me/51941247696'
+global.namechannel = '⏤͟͞ू⃪፝͜⁞⟡『 𝐓͢ᴇ𝙖፝ᴍ⃨ 𝘾𝒉꯭𝐚𝑛𝑛𝒆𝑙: erza-v3-ᑲ᥆𝗍-mძ 』࿐⟡'
+global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: erza-v3-ᑲ᥆𝗍-mძ 』⟡'
+global.namegrupo = '⏤͟͞ू⃪ erza-v3-ᑲ᥆𝗍-mძ ⌬⃝𓆩⚔️𓆪 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
+global.namecomu = '⏤͟͞ू⃪ erza-v3-ᑲ᥆𝗍-mძ ✦⃝⛩️ 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚'
 global.listo = '⚔️ *Aquí tienes, guerrero*'
 
 global.canalIdM = [
-  "120363276986902836@newsletter",
-  "120363276986902836@newsletter"
+  "120363420590235387@newsletter",
+  "120363420590235387@newsletter"
 ]
 global.canalNombreM = [
-  "g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs 💫",
-  "g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ • ᥆𝖿іᥴіᥲᥣ"
+  "erza-v3-ᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs 💫",
+  "erza-v3-ᑲ᥆𝗍-mძ • ᥆𝖿іᥴіᥲᥣ"
 ]
 global.channelRD = await getRandomChannel()
 
