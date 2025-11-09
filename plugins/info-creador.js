@@ -5,22 +5,22 @@ async function handler(m, { conn }) {
 
   const contactos = [
     {
-      numero: '18294868853',
-      nombre: '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ👑་༘',
+      numero: '51941247696',
+      nombre: '⏤͟͞ू⃪ ፝͜⁞perri-ʳⁱᵖ ִֶ ࣪˖ ִֶָ👑་༘',
       cargo: 'Dueño Principal',
       nota: 'Creador del Bot',
-      correo: 'selinapasena@gmail.com',
-      region: '🇩🇴 República Dominicana',
-      web: 'https://github.com/Dioneibi-rip',
-      biografia: await conn.fetchStatus('18294868853@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
+      correo: 'doxeosjr@gmail.com',
+      region: '🇵🇪 Perú ',
+      web: 'https://github.com/gabrie-ux',
+      biografia: await conn.fetchStatus('51941247696@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '18096758983',
-      nombre: '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐',
+      numero: '51941247696',
+      nombre: '⟆⃝༉⃟⸙ ᯽ xx ⌗⚙️࿐',
       cargo: 'Desarrollador y ayudante',
       nota: 'Soporte Técnico',
       correo: 'sin información',
-      region: '🇩🇴 República Dominicana',
+      region: '🇵🇪' Perú ,
       web: 'https://github.com/nevi-dev',
       biografia: await conn.fetchStatus('18096758983@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
